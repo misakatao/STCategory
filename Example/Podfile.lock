@@ -1,0 +1,16 @@
+PODS:
+  - STCategory (0.0.1)
+
+DEPENDENCIES:
+  - STCategory (from `../`)
+
+EXTERNAL SOURCES:
+  STCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STCategory: 7cfccb34e2f9f3034d6f40b40b391090cd33d876
+
+PODFILE CHECKSUM: 72ea55d7041bc31255c753bc025f78bf109cdfa1
+
+COCOAPODS: 1.5.3
